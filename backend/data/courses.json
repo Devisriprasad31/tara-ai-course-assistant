@@ -1,0 +1,477 @@
+[
+  {
+    "id": "course_004",
+    "title": "Generative AI with Large Language Models",
+    "category": "GenAI",
+    "level": "Intermediate",
+    "duration": "4 weeks",
+    "skills": [
+      "LLMs",
+      "Prompt Engineering",
+      "LangChain",
+      "Hugging Face"
+    ],
+    "description": "Explore the fundamentals of generative AI, prompt engineering, and building applications using modern LLMs and frameworks.",
+    "prerequisites": [
+      "Python",
+      "Basic Machine Learning"
+    ],
+    "career_outcomes": [
+      "GenAI Engineer",
+      "AI Solutions Architect"
+    ],
+    "instructor": "Dr. Aris Thorne",
+    "rating": 4.8
+  },
+  {
+    "id": "course_005",
+    "title": "AWS Cloud Practitioner and Architecture",
+    "category": "Cloud",
+    "level": "Beginner",
+    "duration": "6 weeks",
+    "skills": [
+      "AWS",
+      "Cloud Computing",
+      "IAM",
+      "EC2"
+    ],
+    "description": "Master core AWS services, cloud security, architecture principles, and prepare for official AWS certification.",
+    "prerequisites": [
+      "Basic IT Knowledge"
+    ],
+    "career_outcomes": [
+      "Cloud Associate",
+      "AWS Solutions Architect"
+    ],
+    "instructor": "Marcus Vance",
+    "rating": 4.5
+  },
+  {
+    "id": "course_006",
+    "title": "Docker and Kubernetes: The Complete DevOps Guide",
+    "category": "DevOps",
+    "level": "Intermediate",
+    "duration": "8 weeks",
+    "skills": [
+      "Docker",
+      "Kubernetes",
+      "Containerization",
+      "CI/CD"
+    ],
+    "description": "Learn to containerize applications with Docker and orchestrate them at scale using Kubernetes clusters.",
+    "prerequisites": [
+      "Linux Basics",
+      "Basic Web Development"
+    ],
+    "career_outcomes": [
+      "DevOps Engineer",
+      "Site Reliability Engineer"
+    ],
+    "instructor": "Elena Rostova",
+    "rating": 4.9
+  },
+  {
+    "id": "course_007",
+    "title": "Data Engineering Foundations with Apache Spark",
+    "category": "Data Engineering",
+    "level": "Intermediate",
+    "duration": "10 weeks",
+    "skills": [
+      "Apache Spark",
+      "Python",
+      "ETL Pipelines",
+      "Data Warehousing"
+    ],
+    "description": "Design and build robust data pipelines, process big data using Spark, and handle distributed datasets efficiently.",
+    "prerequisites": [
+      "Python",
+      "SQL"
+    ],
+    "career_outcomes": [
+      "Data Engineer",
+      "Big Data Architect"
+    ],
+    "instructor": "David Kim",
+    "rating": 4.7
+  },
+  {
+    "id": "course_008",
+    "title": "Node.js and Express Backend Development",
+    "category": "Backend",
+    "level": "Intermediate",
+    "duration": "7 weeks",
+    "skills": [
+      "Node.js",
+      "Express",
+      "REST APIs",
+      "MongoDB"
+    ],
+    "description": "Build scalable and secure RESTful APIs and server-side web applications using JavaScript and asynchronous architecture.",
+    "prerequisites": [
+      "JavaScript",
+      "Basic HTML/CSS"
+    ],
+    "career_outcomes": [
+      "Backend Developer",
+      "Full Stack Engineer"
+    ],
+    "instructor": "Alex Mercer",
+    "rating": 4.6
+  },
+  {
+    "id": "course_009",
+    "title": "Flutter Cross-Platform Mobile Development",
+    "category": "Mobile",
+    "level": "Beginner",
+    "duration": "8 weeks",
+    "skills": [
+      "Flutter",
+      "Dart",
+      "Mobile UI Design",
+      "State Management"
+    ],
+    "description": "Create beautiful, natively compiled applications for iOS and Android from a single codebase using Flutter and Dart.",
+    "prerequisites": [
+      "Basic Programming Logic"
+    ],
+    "career_outcomes": [
+      "Mobile App Developer",
+      "Flutter Developer"
+    ],
+    "instructor": "Sofia Gomez",
+    "rating": 4.8
+  },
+  {
+    "id": "course_010",
+    "title": "Cybersecurity Fundamentals and Ethical Hacking",
+    "category": "Cybersecurity",
+    "level": "Beginner",
+    "duration": "9 weeks",
+    "skills": [
+      "Network Security",
+      "Penetration Testing",
+      "Linux",
+      "Cryptography"
+    ],
+    "description": "Understand security principles, identify vulnerabilities, and learn ethical hacking techniques to protect networks and data.",
+    "prerequisites": [
+      "Basic Networking Concepts"
+    ],
+    "career_outcomes": [
+      "Security Analyst",
+      "Ethical Hacker"
+    ],
+    "instructor": "Liam O'Connor",
+    "rating": 4.7
+  },
+  {
+    "id": "course_011",
+    "title": "Advanced Vue.js Frontend Engineering",
+    "category": "Web Development",
+    "level": "Advanced",
+    "duration": "6 weeks",
+    "skills": [
+      "Vue.js",
+      "Pinia",
+      "TypeScript",
+      "Nuxt.js"
+    ],
+    "description": "Dive deep into modern Vue 3 ecosystems, performance optimization, composition API, and server-side rendering.",
+    "prerequisites": [
+      "JavaScript",
+      "Basic Vue.js or React"
+    ],
+    "career_outcomes": [
+      "Senior Frontend Developer",
+      "UI Engineer"
+    ],
+    "instructor": "Chloe Dubois",
+    "rating": 4.4
+  },
+  {
+    "id": "course_012",
+    "title": "Natural Language Processing in Python",
+    "category": "Artificial Intelligence",
+    "level": "Intermediate",
+    "duration": "8 weeks",
+    "skills": [
+      "NLP",
+      "NLTK",
+      "SpaCy",
+      "Text Classification"
+    ],
+    "description": "Learn to extract meaning from unstructured text data using statistical and deep learning NLP methods.",
+    "prerequisites": [
+      "Python",
+      "Basic Machine Learning"
+    ],
+    "career_outcomes": [
+      "NLP Engineer",
+      "Data Scientist"
+    ],
+    "instructor": "Dr. Sarah Johnson",
+    "rating": 4.6
+  },
+  {
+    "id": "course_013",
+    "title": "Production RAG Systems with LlamaIndex",
+    "category": "GenAI",
+    "level": "Advanced",
+    "duration": "5 weeks",
+    "skills": [
+      "Retrieval-Augmented Generation",
+      "Vector Databases",
+      "LlamaIndex",
+      "Agentic AI"
+    ],
+    "description": "Build, evaluate, and optimize production-grade Retrieval-Augmented Generation (RAG) pipelines and AI agents.",
+    "prerequisites": [
+      "Python",
+      "Generative AI Basics"
+    ],
+    "career_outcomes": [
+      "AI Engineer",
+      "RAG Systems Specialist"
+    ],
+    "instructor": "Dr. Aris Thorne",
+    "rating": 4.9
+  },
+  {
+    "id": "course_014",
+    "title": "Microsoft Azure Solutions Architect Masterclass",
+    "category": "Cloud",
+    "level": "Advanced",
+    "duration": "9 weeks",
+    "skills": [
+      "Azure",
+      "Cloud Architecture",
+      "DevOps",
+      "Enterprise Security"
+    ],
+    "description": "Design secure, resilient, and highly available infrastructure solutions on the Microsoft Azure cloud platform.",
+    "prerequisites": [
+      "Basic Cloud Knowledge",
+      "Networking"
+    ],
+    "career_outcomes": [
+      "Azure Solutions Architect",
+      "Cloud Engineer"
+    ],
+    "instructor": "Rachel Green",
+    "rating": 4.7
+  },
+  {
+    "id": "course_015",
+    "title": "CI/CD Pipelines with Jenkins and GitHub Actions",
+    "category": "DevOps",
+    "level": "Intermediate",
+    "duration": "6 weeks",
+    "skills": [
+      "Jenkins",
+      "GitHub Actions",
+      "CI/CD Automation",
+      "Git"
+    ],
+    "description": "Automate code compilation, testing, and deployment workflows using industry-standard automation servers and pipelines.",
+    "prerequisites": [
+      "Git Basics",
+      "Basic Linux"
+    ],
+    "career_outcomes": [
+      "Release Engineer",
+      "DevOps Automation Engineer"
+    ],
+    "instructor": "Marcus Vance",
+    "rating": 4.6
+  },
+  {
+    "id": "course_016",
+    "title": "Data Pipeline Orchestration with Apache Airflow",
+    "category": "Data Engineering",
+    "level": "Advanced",
+    "duration": "6 weeks",
+    "skills": [
+      "Apache Airflow",
+      "DAGs",
+      "Workflow Management",
+      "Data Automation"
+    ],
+    "description": "Author, schedule, and monitor complex workflows and data pipelines programmatically using Apache Airflow.",
+    "prerequisites": [
+      "Python",
+      "Data Engineering Foundations"
+    ],
+    "career_outcomes": [
+      "Data Infrastructure Engineer",
+      "Data Platform Engineer"
+    ],
+    "instructor": "David Kim",
+    "rating": 4.8
+  },
+  {
+    "id": "course_017",
+    "title": "Enterprise Backend with Java Spring Boot",
+    "category": "Backend",
+    "level": "Advanced",
+    "duration": "10 weeks",
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "Microservices",
+      "PostgreSQL"
+    ],
+    "description": "Build high-performance, enterprise-ready microservices and secure APIs using the Java Spring Boot ecosystem.",
+    "prerequisites": [
+      "Java Programming",
+      "Object-Oriented Design"
+    ],
+    "career_outcomes": [
+      "Java Backend Developer",
+      "Enterprise Software Engineer"
+    ],
+    "instructor": "Prof. Michael Lee",
+    "rating": 4.8
+  },
+  {
+    "id": "course_018",
+    "title": "iOS App Development with Swift and SwiftUI",
+    "category": "Mobile",
+    "level": "Intermediate",
+    "duration": "8 weeks",
+    "skills": [
+      "Swift",
+      "SwiftUI",
+      "iOS Architecture",
+      "CoreData"
+    ],
+    "description": "Master declarative UI programming and native features to build fluid, robust applications for Apple platforms.",
+    "prerequisites": [
+      "Basic Programming Concepts"
+    ],
+    "career_outcomes": [
+      "iOS Developer",
+      "Swift Software Engineer"
+    ],
+    "instructor": "Emily Carter",
+    "rating": 4.7
+  },
+  {
+    "id": "course_019",
+    "title": "Incident Response and Network Forensic Analysis",
+    "category": "Cybersecurity",
+    "level": "Advanced",
+    "duration": "8 weeks",
+    "skills": [
+      "Forensics",
+      "Wireshark",
+      "Threat Hunting",
+      "Incident Management"
+    ],
+    "description": "Detect, analyze, and mitigate advanced persistent threats (APTs) and security breaches within complex network infrastructures.",
+    "prerequisites": [
+      "Cybersecurity Fundamentals",
+      "Advanced Networking"
+    ],
+    "career_outcomes": [
+      "Incident Responder",
+      "SOC Analyst"
+    ],
+    "instructor": "Liam O'Connor",
+    "rating": 4.9
+  },
+  {
+    "id": "course_020",
+    "title": "Next.js Production Ready Full-Stack Applications",
+    "category": "Web Development",
+    "level": "Advanced",
+    "duration": "7 weeks",
+    "skills": [
+      "Next.js",
+      "React Server Components",
+      "Tailwind CSS",
+      "Prisma"
+    ],
+    "description": "Build search-engine optimized, blazing fast web apps implementing server-side rendering, static site generation, and server actions.",
+    "prerequisites": [
+      "React Frontend Development",
+      "Basic Databases"
+    ],
+    "career_outcomes": [
+      "Full Stack Web Developer",
+      "Next.js Specialist"
+    ],
+    "instructor": "Alex Mercer",
+    "rating": 4.9
+  },
+  {
+    "id": "course_021",
+    "title": "Computer Vision with OpenCV and PyTorch",
+    "category": "Artificial Intelligence",
+    "level": "Intermediate",
+    "duration": "8 weeks",
+    "skills": [
+      "OpenCV",
+      "Object Detection",
+      "PyTorch",
+      "Image Segmentation"
+    ],
+    "description": "Build systems that can process and understand visual data, including image classification, object tracking, and facial recognition.",
+    "prerequisites": [
+      "Python",
+      "Advanced Deep Learning"
+    ],
+    "career_outcomes": [
+      "Computer Vision Engineer",
+      "AI Researcher"
+    ],
+    "instructor": "Prof. Michael Lee",
+    "rating": 4.7
+  },
+  {
+    "id": "course_022",
+    "title": "Infrastructure as Code with Terraform",
+    "category": "DevOps",
+    "level": "Intermediate",
+    "duration": "5 weeks",
+    "skills": [
+      "Terraform",
+      "Multi-Cloud",
+      "HCL",
+      "State Management"
+    ],
+    "description": "Provision and manage cloud infrastructure across AWS, Azure, and GCP securely and predictably using HashiCorp Configuration Language.",
+    "prerequisites": [
+      "AWS Cloud Practitioner and Architecture"
+    ],
+    "career_outcomes": [
+      "Cloud DevOps Engineer",
+      "Infrastructure Engineer"
+    ],
+    "instructor": "Elena Rostova",
+    "rating": 4.6
+  },
+  {
+    "id": "course_023",
+    "title": "Fine-Tuning Large Language Models",
+    "category": "GenAI",
+    "level": "Advanced",
+    "duration": "6 weeks",
+    "skills": [
+      "LoRA",
+      "QLoRA",
+      "PEFT",
+      "Model Evaluation"
+    ],
+    "description": "Dive deep into optimizing pre-trained models for custom domain tasks using parameter-efficient fine-tuning technologies.",
+    "prerequisites": [
+      "Generative AI with Large Language Models",
+      "PyTorch"
+    ],
+    "career_outcomes": [
+      "LLM Research Engineer",
+      "GenAI Core Developer"
+    ],
+    "instructor": "Dr. Aris Thorne",
+    "rating": 4.9
+  }
+]

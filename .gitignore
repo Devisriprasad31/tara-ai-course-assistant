@@ -1,0 +1,11 @@
+venv/
+.venv/
+.env
+__pycache__/
+*.pyc
+node_modules/
+dist/
+vector_store/*.faiss
+vector_store/*.pkl
+.DS_Store
+.vscode/
