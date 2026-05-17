@@ -24,7 +24,9 @@ Tara is an AI-powered e-learning assistant built with a FastAPI backend (using F
    ```env
    GEMINI_API_KEY=your_gemini_api_key_here
    FRONTEND_URL=http://localhost:5173
+   HUGGINGFACE_API_KEY=your_huggingface_key_here
    ```
+   *Note: This architecture uses the HuggingFace Inference API for generating embeddings instead of downloading heavy models locally. This significantly reduces memory consumption, making it ideal for deployments on free-tier services like Render.*
 5. Start the backend server:
    ```bash
    cd backend
